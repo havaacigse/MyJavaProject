@@ -1,0 +1,9 @@
+# Java class files
+*.class
+
+# IntelliJ IDEA files (eğer kullanıyorsan)
+.idea/
+*.iml
+
+# MacOS sistem dosyaları
+.DS_Store
