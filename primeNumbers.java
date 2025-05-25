@@ -1,5 +1,5 @@
 //kendisine yollanan 2 sayi arasındaki asal sayıları listeleyen ve ekrana yazdiran metot
-public class metotalistirma2 {
+public class primeNumbers {
     public static void main(String[] args) {
         printPrimeNumbers(1,100);
     }
