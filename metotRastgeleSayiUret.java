@@ -17,7 +17,7 @@ public class metotRastgeleSayiUret {
 }
 */
 
-//aynı sorunun geriye deger döndüren halini de istiyor. geriye deger döndürmesi icin degerleri bir yerde tutması lazım dizi kullanıcaz
+//aynı sorunun geriye deger döndüren halini de istiyor. 
 import java.util.Arrays;
 import java.util.Random;
 public class metotRastgeleSayiUret{
@@ -31,7 +31,7 @@ public class metotRastgeleSayiUret{
         for(int i=0 ; i<adet; i++){
              dizi[i] = rnd.nextInt(bitisDegeri-baslangicDegeri +1) + baslangicDegeri;
         }
-        return dizi; //diziyi döndürüyorsun yani int[]
+        return dizi; 
      }
     
 
