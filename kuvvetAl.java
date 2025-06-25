@@ -9,6 +9,6 @@ public class kuvvetAl {
         if(kuvvet == 0) 
             return 1;
         else 
-             return sayi * kuvvetAl(sayi, kuvvet -1);
+             return sayi * kuvvetAl(sayi, kuvvet -1); //ozyinelemeli 
     }
 }

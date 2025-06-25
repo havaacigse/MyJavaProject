@@ -16,7 +16,7 @@ public class karelerinToplami {
         if(sayi == 1)
              return 1;
         else 
-             return (sayi * sayi) + karelerinToplami(sayi -1);
+             return (sayi * sayi) + karelerinToplami(sayi -1); //recursive
 
     }
 }

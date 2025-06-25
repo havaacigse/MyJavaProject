@@ -18,9 +18,7 @@ public class enKucukSayiBul {
         }
     }
     return sayi;
+    }
 
-   
-    }
-    
-    }
+ }
 

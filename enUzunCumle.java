@@ -3,7 +3,7 @@ public class enUzunCumle {
         System.out.println(enUzunCumle("merhaba arkadaslar " , "bugun cok guzel seyler olucak"));
         System.out.println(enUzunCumle("yarın finallere calismam lazim " , "bugun denize gidicem."));
     }
-    public static int enUzunCumle(String... cumleler){
+    public static int enUzunCumle(String... cumleler){ 
         if(cumleler == null || cumleler.length == 0)
             return 0;
          
